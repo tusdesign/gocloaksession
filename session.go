@@ -5,9 +5,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Nerzal/gocloak/v11"
 	"github.com/go-resty/resty/v2"
 	"github.com/pkg/errors"
+	"github.com/tusdesign/gocloak/v11"
 )
 
 // CallOption configures a Session

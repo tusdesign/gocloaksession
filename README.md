@@ -4,12 +4,12 @@ This client uses: [gocloak](https://github.com/Nerzal/gocloak) and [resty](https
 
 ## Installation
 ```shell
-go get github.com/Clarilab/gocloaksession
+go get github.com/tusdesign/gocloaksession
 ```
 
 ## Importing
 ```go
-import "github.com/Clarilab/gocloaksession"
+import "github.com/tusdesign/gocloaksession"
 ```
 
 ## Features
