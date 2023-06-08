@@ -5,9 +5,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Nerzal/gocloak/v13"
 	"github.com/go-resty/resty/v2"
 	"github.com/pkg/errors"
+	"github.com/tusdesign/gocloak/v13"
 )
 
 // FunctionalOption configures a Session

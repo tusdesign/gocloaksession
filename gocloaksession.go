@@ -1,8 +1,8 @@
 package gocloaksession
 
 import (
-	"github.com/Nerzal/gocloak/v13"
 	"github.com/go-resty/resty/v2"
+	"github.com/tusdesign/gocloak/v13"
 )
 
 // GoCloakSession holds all callable methods
